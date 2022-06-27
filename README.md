@@ -1,5 +1,5 @@
 # Philosophers
-Implementation of the Dining Philosopher Problem in C using threads and mutexes (/philo) and v (/philo_bonus)
+Implementation of the Dining Philosopher Problem in C using threads and mutexes (/philo) and processes and semaphore (/philo_bonus)
 
 ### Build
 - Version based on threads and mutexes:
