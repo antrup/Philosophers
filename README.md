@@ -2,10 +2,10 @@
 Implementation of the Dining Philosopher Problem in C using threads and mutexes (/philo) and v (/philo_bonus)
 
 ### Build
-Version based on threads and mutexes
+- Version based on threads and mutexes:
 cd philo && make
 
-Version based processes and semaphore
+- Version based processes and semaphore:
 cd philo_bonus && make
 
 ### Run
